@@ -58,7 +58,7 @@ AutoCorpus can base new corpus files off existing ones.
 AutoCorpus.exe -i "input_folder" -o "out"
 ```
 ### Both Existing Corpus Files And a Prompt.
-For example asking AutoCorpus to generate an XML file and an existing corpus:
+Generation can be run by using both an existing corpus and a prompt.
 ```
 AutoCorpus.exe -i "input_folder" -o "out" -p "xml file"
 ```
