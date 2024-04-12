@@ -16,7 +16,7 @@
 
 AutoCorpus is a tool backed by a large language model (LLM) for automatically generating corpus files for fuzzing. 
 
-AutoCorpus works best when generating corpus files that are based om natural language, such as JSON, XML, or other config files. 
+AutoCorpus works best when generating corpus files that are based on natural language, such as JSON, XML, or other config files. 
 
 # ⚙️ Setup
 
