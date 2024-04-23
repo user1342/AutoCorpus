@@ -31,8 +31,6 @@ AutoCorpus requires **Nvidia CUDA** for enhanced LLM performance. Follow the ste
 - Install the appropriate dependencies from [here](https://pytorch.org/get-started/locally/)
 - Validate CUDA installation by running the following command and receiving a prompt: ```python -c "import torch; print(torch.rand(2,3).cuda())"```
 
-**Update:** Due to changes in the Mistral model implementation you will need to accept the Mistral terms [here](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) and update the code accordingly with your token as [seen here](https://huggingface.co/docs/hub/en/security-tokens). 
-
 Python dependencies can be found in the `requirements.txt` file:
 
 ```
